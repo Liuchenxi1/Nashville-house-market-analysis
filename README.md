@@ -25,11 +25,11 @@ As a homeowner in Nashville, TN, one of the “hottest” cities across the nati
 
 ### **Findings**
 - 
-![ The Average Housing Price Trends In Three Cities (2000-2021 )]( https://github.com/Liuchenxi1/go_to_themoon/tree/main/data/average_housing_price.png)
+![ The Average Housing Price Trends In Three Cities (2000-2021 )](https://github.com/Liuchenxi1/go_to_themoon/tree/main/data/average_housing_price.png)
 ●	There was a significant drop in prices during 2008-2013 in L.A. and Atlanta, however, Nashville prices didn’t receive the same impact as other two. This implies that the Nashville housing market may be a safe place to invest even when signs point to another decline in the economy. 
 
 
-●	![ The Average Housing Price Trends In Three Cities (2000-2021 )]( https://github.com/Liuchenxi1/go_to_themoon/tree/main/data/The_average_rental_cost.png)
+●	![ The Average Housing Price Trends In Three Cities (2000-2021 )](https://github.com/Liuchenxi1/go_to_themoon/tree/main/data/The_average_rental_cost.png)
 
 ●	The average rental costs are increasing each year. From the city and population size, Nashville has had a positive sign for rental profitability since 2014. This means, as the city continues to grow in population, the rental properties will become more valuable. There is at least 7% room for Nashville rentals to be higher in price.
 
